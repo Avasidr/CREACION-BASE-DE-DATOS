@@ -1,0 +1,2 @@
+# CREACION-BASE-DE-DATOS
+Práctica Bases de datos en MySQL para SAMSUNG DESARROLLADORAS
